@@ -5,7 +5,7 @@
 > * 译者：[Moosphon](https://github.com/Moosphan)
 > * 校对者：[androidxiao](https://github.com/androidxiao) [LeeSniper](https://github.com/LeeSniper)
 
-# 带你领略 ConstraintLayout 1.1 的新功能!
+# 带你领略 ConstraintLayout 1.1 的新功能!!
 
 **约束布局**（ConstraintLayout）通过使用 Android Studio 中的可视化编辑器来为您生成绝大多数的 UI，进而达到简化 Android 中创建复杂布局的目的。它通常被我们描述为更加强大的 `RelativeLayout`。通过使用约束布局，您可以定义一些复杂的布局而不需要创建复杂的视图层级。
 
